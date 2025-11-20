@@ -9,7 +9,7 @@
     {
       "src": "/api/ia_master",
       "dest": "api/ia_master.py",
-      "methods": ["POST"] // Especifica o método POST
+      "methods": ["POST"]
     }
   ]
 }
