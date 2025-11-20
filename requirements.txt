@@ -1,0 +1,2 @@
+Flask          # Framework para criar o servidor Python
+requests       # Biblioteca para fazer requisições HTTP (chamar a OpenRouter)
